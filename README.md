@@ -83,5 +83,8 @@ The analysis below will provide insight into the following:
 
 ## In Summary:
 
-> The election audit script can quickly and easily review hundreds 
+> The election audit script can quickly run through millions of votes in a very short amount of time. With a total of 163 lines of code, it can be manipulated to        itterate through any CSV files it is given. The CSV must be in the standard voter format before running the code. 
+>
+> The "file_to_load" location can be easily changed in the code behind the script as shown below. simply copy and paste where your voter data csv file is located and then run the script. 
 
+- ![This is an image](https://github.com/jcaraway-na/Election_Analysis/blob/main/resources/file_read_from.png)
