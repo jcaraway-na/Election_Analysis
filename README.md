@@ -87,4 +87,8 @@ The analysis below will provide insight into the following:
 >
 > The "file_to_load" location can be easily changed in the code behind the script as shown below. simply copy and paste where your voter data csv file is located and then run the script. 
 
-- ![This is an image](https://github.com/jcaraway-na/Election_Analysis/blob/main/resources/file_read_from.png)
+![This is an image](https://github.com/jcaraway-na/Election_Analysis/blob/main/resources/file_read_from.png)
+
+> Your file output path can also be adjusted as well, just simply follow the same steps as above. navigate to the folder you would like the text file to output to. Then copy and paste the url into the script labeled "file_to_save".
+
+![This is an image](https://github.com/jcaraway-na/Election_Analysis/blob/main/resources/file_write_to.png)
